@@ -1,0 +1,31 @@
+.footer{
+    color: red;
+    background-color: black;
+    margin: 0px auto;
+    padding: 20px 0px 20px 0px;
+}
+
+.btn{
+    background-color: black;
+    color: red;
+}
+
+.forms{
+    padding: 20px;
+}
+
+form{
+    padding: 20px;
+}
+
+.title{
+    color: red;
+    background-color: black;
+    padding: 20px;
+}
+
+.joinbutton{
+    padding: 50px 70px 50px 70px;
+    font-size: 50px;
+    font-weight: bold;
+}
